@@ -1,4 +1,4 @@
-# My Chrome Extension
+# Chrome Extension with ChatGPT
 
 This Chrome extension is a sample project demonstrating the use of Manifest V3 for building modern Chrome extensions. It includes a popup, a content script, a background script, an options page, and associated styling and scripting for these components.
 
